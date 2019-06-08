@@ -1,0 +1,65 @@
+---------------------------------------------------------
+Fie doua numere a si b. Sa se determine daca reprezinta un
+patrat sau doar un dreptunghi
+Input a, b
+Output true (daca e patrat)
+sau
+Output false (daca e dreptunghi)
+Exemplu: a = 2 si b = 3 -> output: false
+     a = 5 si b = 5 -> output: true
+---------------------------------------------------------
+Se dau cele catetele si ipotenuza unui triunghi. Sa se
+determine daca triunghiul este dreptunghic.
+
+Nota: pentru ca un triunghi sa fie dreptunghic (sa faca unghi
+de 90 de grade) conditia este:
+cateta1^2 + cateta2^2 = ipotenuza^2 (^ -ridicare la putere)
+
+Input cateta1, cateta2, ipotenuza
+Output true sau false
+Exempu1: cateta1 = 3, cateta2 = 2 si ipotenuza = 5
+     aplicam formula din conditie ->
+     3^2 + 2^2 = 5^2
+     9 + 4 = 25
+     13 = 25 (fals) -> Output: false
+Exempu1: cateta1 = 3, cateta2 = 2 si ipotenuza = 5
+     aplicam formula din conditie ->
+     3^2 + 4^2 = 5^2
+     9 + 16 = 25
+     25 = 25 (adevarat) -> Output: true
+
+---------------------------------------------------------
+Fie doua numere a si b sa se returneze
+-suma daca a < b
+sau
+-media daca b >= a (mai mare sau egal)
+Exemplu: a = 2 si b = 5 -> output: a+b      (suma)
+     a = 6 si b = 2 -> output: (a+b)/2  (media)
+---------------------------------------------------------
+
+Se da un numar n. Sa se determine daca ULTIMA
+cifra a numarului este si prima.
+
+Exemplu: 12221, 342233, 6.
+
+---------------------------------------------------------
+
+Se da un numar n. Sa se determine cate cifre impare are numarul.
+
+---------------------------------------------------------
+Se da un numar n. Sa se determine suma cifrelor sale.
+Exemplu: n = 723 -> Output: 12 (7 + 2 + 3)
+     n = 5   -> Output: 5  (5)
+---------------------------------------------------------
+Se da un numar n. Sa se determine daca PRIMA cifra a numarului e para.
+Exemplu: n = 723 -> Output: false
+     n = 2   -> Output: true
+	 n = 653   -> Output: true
+---------------------------------------------------------
+Se da un numar n si o cifra k. Sa se determine de cate ori
+apare cifra k in numarul n.
+Nota: k este cifra nu numar, adica are valori de la 0 la 9
+Exemplu: n = 5667, k = 6 -> Output: 2
+     n = 12,   k = 4 -> Output: 0
+
+---------------------------------------------------------

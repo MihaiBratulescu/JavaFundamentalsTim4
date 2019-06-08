@@ -1,0 +1,39 @@
+Folsiti ca si tip de date doar int daca NU se specifica altceva!!!
+------------------------------------------------------------------
+Se dau doua numere a si b. Determinati cel mai mic multiplu cumun.
+Ex: a = 3, b = 5 -> Output: 15
+------------------------------------------------------------------
+Se da un numar n de tip float. Sa se afiseze (pe rand)
+partea intreaga si partea fractionara.
+PS: Se folosesc functiile Math trimise (alea ultimele)
+Ex: n = 241,45232 -> Output: 241 si 45232
+------------------------------------------------------------------
+Se dau doua numere a si b. Sa se afiseze (pe rand) toate numerele
+dintre a si b in ordine crescatoare
+Ex: a = 3, b = 3 -> Output: nu se afizeaza nimic
+    a = 4, b = 8 -> Output: 5, 6, 7
+    a = 6, b = 3 -> Output: 4, 5
+
+Atentie: trebuie sa mearga pentru a > b dar si pentru b < a!
+Indiciu: daca am doua pahare pline cum le schimb continutul intre ele?
+------------------------------------------------------------------
+Se da un numar n. Determinati suma cifrelor de la 0 la n.
+Ex: n = 4 -> Output: 10 (1+2+3+4)
+------------------------------------------------------------------
+Se da un numar n. Care este cea mai mare cifra din numar?
+Si inca o data pentru cea mai mica!
+Ex: n = 13432 -> Output: 4
+------------------------------------------------------------------
+Se da un numar n. Sa se afiseze (pe rand) toti divizorii numarului.
+Info: daca 6 se imparte la 3 atunci 3 este divizor pentru 6
+Ex: n = 8 -> Output: 1, 2, 4, 8
+------------------------------------------------------------------
+Se da un numar n. Sa se afiseze numarul de divizori ai numarului.
+Ex: n = 8 -> Output: 4
+------------------------------------------------------------------
+Se da un numar n. Sa se verifice daca cifrele sale sunt in ordine crescatoare.
+Ex: n = 24799 -> Output: true
+    n = 43221 -> Output: false
+------------------------------------------------------------------
+Se da un numar n. Determinati suma 1 + 1*2 + 1*2*3 + .... 1*2*3*....*n
+Ex: n = 4 -> Output: 1 + 1*2 + 1*2*3 + 1*2*3*4
