@@ -21,3 +21,7 @@
 Selectati o versiune de SDK
 
 ![image](https://user-images.githubusercontent.com/17163890/59164479-e390c300-8b15-11e9-8585-948266f28b3a.png)
+
+Lista cu proiecte se gaseste:
+
+![image](https://user-images.githubusercontent.com/17163890/59165108-38850700-8b1f-11e9-853f-640b94f9dd31.png)
