@@ -1,4 +1,4 @@
-package ziua2.g.Exercitii;
+package ziua2.d.Exercitii;
 
 public class Problema17
 {
@@ -15,14 +15,21 @@ public class Problema17
         //Divizori: 1, 2, 3, 4, 6, 12
 
         //for 1 -> nr
-            //daca numarul se divide la index
-                //este divizor -> afisam
+            //daca numarul se divide la index => este divizor
+                //afisam
 
         for(int i = 1; i <= nr; i++)
         {
             if(nr % i == 0)//divizor
             {
-                System.out.print(i + ", ");
+                if(i == nr)//la ultimul divizor
+                {
+                    System.out.print(i);//afisam fara , in coada
+                }
+                else
+                {
+                    System.out.print(i + ", ");
+                }
             }
         }
     }

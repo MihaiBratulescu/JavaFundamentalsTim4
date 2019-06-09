@@ -18,11 +18,9 @@ public class Problema2
         System.out.println("Introdu un nr 2: ");
         nr2 = scanner.nextInt();
 
-        System.out.println("Suma este: " +
-                (nr1 + nr2));
+        System.out.println("Suma este: " + (nr1 + nr2));
 
         float media = (nr1 + nr2) / 2f;
-        System.out.println("Media este: " +
-                media);
+        System.out.println("Media este: " + media);
     }
 }

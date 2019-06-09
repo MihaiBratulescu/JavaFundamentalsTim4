@@ -13,13 +13,12 @@ public class Problema14
 
         //ex cel mai usor (convenabil)
         //nr = 6;
-        //Daca nr < 10 => prima cifra : nr
+        //Daca nr < 10 => prima cifra este chiar nr
 
         //ex: nr = 247
-
         //pana cand nr > 10
         //tai ultima cifra: nr = nr / 10
-        //prima cifra: nr
+        //prima cifra: nr (nr taiat)
 
         while (nr > 10)
         {

@@ -1,4 +1,4 @@
-package ziua2.g.Exercitii;
+package ziua2.d.Exercitii;
 
 public class Problema11 {
     //Sa se scrie o functie care

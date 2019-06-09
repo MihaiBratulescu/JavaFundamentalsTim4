@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Problema6 {
     //Sa se citeasca varsta utilizatorului
-    //si daca este major primeste de baut alcol
+    //si DACA este major primeste de baut alcol
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
 

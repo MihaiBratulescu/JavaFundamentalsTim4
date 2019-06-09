@@ -19,7 +19,6 @@ public class Problema4
         System.out.println("Introdu b:");
         b = scanner.nextInt();
 
-        System.out.println("Restul impartirii: " +
-                a % b);
+        System.out.println("Restul impartirii: " + a % b);
     }
 }

@@ -16,6 +16,8 @@ public class Problema1
         //citesc din consola (de la tastatura)
         nr = scanner.nextInt();
         //nextInt() pentru citire numar intreg
+        //nextFloat() pentru citire numar fractionar
+        //next() pentru citire String
 
         System.out.println(nr);
     }

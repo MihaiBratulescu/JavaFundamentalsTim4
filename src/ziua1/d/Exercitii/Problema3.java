@@ -8,14 +8,11 @@ public class Problema3
     public static void main(String args[])
     {
         Scanner scanner = new Scanner(System.in);
-
         String nume;
 
-        {
-            System.out.println("Cum te cheama?");
-            nume = scanner.next();
+        System.out.println("Cum te cheama?");
+        nume = scanner.next();
 
-            System.out.println("Hello " + nume);
-        }
+        System.out.println("Hello " + nume);
     }
 }

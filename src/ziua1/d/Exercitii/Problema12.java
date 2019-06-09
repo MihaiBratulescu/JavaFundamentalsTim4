@@ -16,16 +16,14 @@ public class Problema12
         System.out.println("Introdu un nr:");
         nr = scanner.nextInt();
 
-        int start = 1, suma = 0;
+        int start = 5, suma = 0;
 
-        while (start <= nr)
+        while (start <= nr * 5)
         {
             suma += start;
-            start += 1;
+            start += 5;
         }
 
-        System.out.println(
-        "Suma primelor " +
-        nr + " numere este: " + suma);
+        System.out.println("Suma primelor " + nr + " numere divizibile cu 5 este: " + suma);
     }
 }

@@ -1,4 +1,4 @@
-package ziua2.g.Exercitii;
+package ziua2.d.Exercitii;
 
 public class Problema9 {
     //Sa se scrie o functie care
@@ -17,7 +17,7 @@ public class Problema9 {
             start++;
             if(start % 2 == 0)//numar par
             {
-                continue;
+                continue;//sare peste instructiunile de mai jos, incepe bucla de la inceput
             }
 
             System.out.println(start);
@@ -25,7 +25,7 @@ public class Problema9 {
 
             if(contor == 0)
             {
-                break;
+                break;//inchide bucla
             }
         }
     }

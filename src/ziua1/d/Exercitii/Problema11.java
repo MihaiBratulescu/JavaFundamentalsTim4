@@ -24,8 +24,6 @@ public class Problema11
             start += 1;
         }
 
-        System.out.println(
-        "Suma primelor " +
-        nr + " numere este: " + suma);
+        System.out.println("Suma primelor " + nr + " numere este: " + suma);
     }
 }

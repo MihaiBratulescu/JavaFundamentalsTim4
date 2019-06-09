@@ -1,4 +1,4 @@
-package ziua2.g.Exercitii;
+package ziua2.d.Exercitii;
 
 public class Problema8 {
     //Sa se scrie o functie care
@@ -12,7 +12,7 @@ public class Problema8 {
     {
         while (nr > 9)//are mai mult de o cifra
         {
-            nr = nr / 10;
+            nr = nr / 10;//taie ultima cifra
         }
 
         System.out.println(nr);

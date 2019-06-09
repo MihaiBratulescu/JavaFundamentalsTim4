@@ -1,4 +1,4 @@
-package ziua2.g.Exercitii;
+package ziua2.d.Exercitii;
 
 public class Problema4
 {
@@ -15,7 +15,7 @@ public class Problema4
 
         while (n > 9)
         {
-            n = n / 10;
+            n = n / 10;//taie ultima cifra
             nrCifre++;
         }
 

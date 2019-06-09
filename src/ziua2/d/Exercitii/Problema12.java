@@ -1,4 +1,4 @@
-package ziua2.g.Exercitii;
+package ziua2.d.Exercitii;
 
 public class Problema12
 {
@@ -35,6 +35,7 @@ public class Problema12
         //matematica
         //factorial 5! = 5*4*3*2*1
         //fact(n) = n * fact(n-1)
+
         if(nr == 1 || nr == 0)
         {
             return 1;
