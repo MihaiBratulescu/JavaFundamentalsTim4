@@ -1,0 +1,20 @@
+Pick from the console a value from 0 to 5 . On the basis of the obtained value, display
+any sign. For example, for number 0, display "*", for 1 display "$" (or any other).
+
+Print your name 5 times
+
+Create do while loop that will execute only once
+
+Within a loop read text from console and print it back simple ""
+
+Calculate sum of index value from 10 to 30, using for loop
+
+Choose the best loop for every task . Always add System.out.println („…”)
+inside the loop , to check , if it works as expected
+1. Do simple „echo” application . Your application should work as long , as you won’t write quit
+2. The same as above , but if you’ll write continue ” your application should go back to the
+beginning of your loop , without printing back your text
+3.*Draw rectangle from stars
+Use nested for loops parent loops iterator should be called row ”, child one column
+Output
+4.**Draw rectangle empty inside only edges
