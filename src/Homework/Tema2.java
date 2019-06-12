@@ -2,9 +2,10 @@ package Homework;
 
 import java.util.Scanner;
 
-public class Tema1
+public class Tema2
 {
-    //Fie doua numere a si b. Sa se determine daca a este multiplu de b
+//    Fie doua numere a si b. Sa se determine daca reprezinta un
+//    patrat sau doar un dreptunghi
     public static void main(String args[])
     {
         Scanner scanner = new Scanner(System.in);
@@ -17,7 +18,13 @@ public class Tema1
         System.out.print("b=");
         b = scanner.nextInt();
 
-        System.out.println(a + " multiplu de " + b);
-        System.out.println(a % b == 0);
+        if(a == b)
+        {
+            System.out.println("patrat");
+        }
+        else
+        {
+            System.out.println("dreptunghi");
+        }
     }
 }
