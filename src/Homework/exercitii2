@@ -3,6 +3,7 @@ Folsiti ca si tip de date doar int daca NU se specifica altceva!!!
 Se dau doua numere a si b. Determinati cel mai mic multiplu cumun.
 Ex: a = 3, b = 5 -> Output: 15
 ------------------------------------------------------------------
+NU SE MAI FACE!!!
 Se da un numar n de tip float. Sa se afiseze (pe rand)
 partea intreaga si partea fractionara.
 PS: Se folosesc functiile Math trimise (alea ultimele)

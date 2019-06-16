@@ -1,0 +1,69 @@
+---------------------------------------------------------------------
+
+Se da un numar n. Daca este pozitiv sa se afiseze numarul negativ.
+Daca este negativ sa se afiseze numarul pozitiv.
+
+---------------------------------------------------------------------
+
+Sa se citeasca pe rand numele apoi prenumele si sa se afiseze numele complet
+
+---------------------------------------------------------------------
+
+Sa se citeasca un String si sa se afiseze pe cate un rand fiecare caracter.
+
+---------------------------------------------------------------------
+
+Se da n si k. Sa se afiseze (pe rand)
+primii k multiplii ai numarului.
+
+Ex: n = 3, k = 4
+
+Output: 3, 6, 9, 12
+
+---------------------------------------------------------------------
+
+Se dau 3 numere a, b, c. Sa se verifice daca suma primelor doua
+este mai mare decat a treia.
+
+---------------------------------------------------------------------
+
+Sa se citeasca un String doar cu caractere din alfabet.
+Sa se determine daca toate caracterele au acelasi case.
+(toate litere mari sau toate litere mici)
+
+---------------------------------------------------------------------
+
+Folosing instructiunea switch sa se scrie un program care
+citeste un nr de la 1-5 si afiseaza pentru:
+1 -> *
+2 -> $
+3 -> ^
+4 -> !
+5 -> ?
+
+---------------------------------------------------------------------
+
+Folosing instructiunea switch sa se scrie un program care citeste
+caractere de la tastatura pana cand se introduce 'q'
+Si afiseaza la final toate caracterele citite.
+
+Indiciu: acest switch are un singur case si un default
+
+---------------------------------------------------------------------
+
+Sa se scrie un program care citeste caractere si afiseaza pozitia lor
+din tabelul ASCII.
+
+Indiciu: la conversie se foloseste cast: (int)
+
+---------------------------------------------------------------------
+
+Se se scrie un program care afiseaza primele n numere divizibile cu
+23 sau 19
+
+---------------------------------------------------------------------
+
+Se dau nr a si b. Cel mai mare divizor comun!
+
+---------------------------------------------------------------------
+
